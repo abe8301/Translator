@@ -1,0 +1,21 @@
+div {
+    background-color: #e1e1e1;
+    width: 80%;
+    height: 80px;
+    padding: 15px;
+    border-radius: 7px;
+    border: #808080 1px solid;
+}
+
+button {
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+#wynik {
+    width: 400px;
+    height: 180px;
+    border: 1px solid;
+    margin-top: 20px;
+    background: whitesmoke;
+}
